@@ -13,7 +13,7 @@ Status](https://secure.travis-ci.org/google/truth.png?branch=master)]
 Truth is an assertion/proposition framework appropriate for testing, inspired by
 FEST, and driven by some extensibility needs, written nearly entirely by Google
 employees in their spare time or contributing in their capacity as Java core
-librarians.
+librarians. 
 
 Truth can be used in place of JUnit's assertions, FEST, or Hamcrest's matchers,
 or it can be used alongside where other approaches seem more suitable.
